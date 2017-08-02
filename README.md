@@ -33,3 +33,9 @@ npm test
 - Webpack
 - Mocha
 - Karma
+
+### Special Thanks To
+
+- [@gayle](https://twitter.com/gayle?lang=en), author of [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=0Y60VYGGXQA2PJ0NPRF3) for all her amazing work.
+- [@mtvillwock](https://twitter.com/Mtvillwock?lang=en) for reaching through my depression riddled brain and getting my butt into gear. [CTCI](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=0Y60VYGGXQA2PJ0NPRF3)
+- [@kyleshevlin](https://twitter.com/kyleshevlin)'s [talk](http://slides.com/kyleshevlin/improving-at-js-interviews#/) which encouraged me to format and show this to the world.
