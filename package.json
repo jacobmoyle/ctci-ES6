@@ -1,0 +1,23 @@
+{
+  "name": "cracking-the-code-interview",
+  "version": "1.0.0",
+  "description": "CtCI 6th Edition soltuions in Javascript (ES6)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine",
+    "build": "babel chapters -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jacobmoyle/ctci-ES6.git"
+  },
+  "author": "Jacob Moyle",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "jasmine": "^2.7.0",
+    "webpack": "^3.4.1"
+  }
+}
