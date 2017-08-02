@@ -1,5 +1,6 @@
+[Setup](#setup) :clap: [Running Tests](#running-tests) :clap: [Dependencies](#dependencies) :clap: [Shoutouts](#shoutouts)
+
 # Cracking the Coding Interview v6 - ES6
-[Setup](#setup) | [Testing](#testing) | [Dependencies](#dependencies) | [Shoutouts](#shoutouts)
 
 These are the solutions and their respective tests. I'll be updating this repo as I go.
 
