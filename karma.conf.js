@@ -6,10 +6,13 @@ module.exports = function (config) {
     singleRun: true,
     frameworks: ['mocha'],
     files: [
-      'app/tests/**/*.test.jsx'
+      'app/tests/**/*.test.jsx',
+      'app/tests/**/*.test.js'
     ],
     preprocessors: {
-      'app/tests/**/*.test.jsx': ['webpack', 'sourcemap']
+      'app/tests/**/*.test.jsx': ['webpack', 'sourcemap'],
+      'app/tests/**/*.test.js': ['webpack', 'sourcemap']
+
     },
     reporters: ['mocha'],
     client: {

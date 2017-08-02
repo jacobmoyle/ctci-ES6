@@ -13,7 +13,7 @@ module.exports = {
     root: __dirname,
     modulesDirectories: [
       'node_modules',
-      './app/ChapterOne',
+      './app/chapterOne',
       './app/examples'
     ],
     alias: {
