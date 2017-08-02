@@ -1,12 +1,16 @@
+# Cracking the Coding Interview v6 - ES6
+
 [Setup](#setup) :clap: [Running Tests](#running-tests) :clap: [Dependencies](#dependencies) :clap: [Shoutouts](#shoutouts)
 
-# Cracking the Coding Interview v6 - ES6
+## What is this this? Why are you pushing at 2am?
 
 These are the solutions and their respective tests. I'll be updating this repo as I go.
 
 My goal with this project is to become a better technical interviewer. I become a nervous wreck under pressure and employers find it less than desirable.
 
 So... here is my response to struggling in technical interviews.
+
+It's also a way to stay productive when anxiety keeps me up :tada:.
 
 ## Setup
 
