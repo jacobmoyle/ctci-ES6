@@ -8,9 +8,21 @@ So... here is my response to struggling in technical interviews.
 
 ## Setup
 
-Once downloaded, ensure that Node.js is installed and run the follow commands:
+Download and navigate into repo:
+```bash
+git clone git@github.com:jacobmoyle/ctci-ES6.git && cd ctci-ES6
+```
+
+Run npm:
 ```bash
 npm install
+```
+
+## Running Tests
+
+Simply run:
+```bash
+npm test
 ```
 
 ## Dependencies
