@@ -1,4 +1,5 @@
 # Cracking the Coding Interview v6 - ES6
+[Setup](#setup) | [Testing](#testing) | [Dependencies](#dependencies) | [Shoutouts](#shoutouts)
 
 These are the solutions and their respective tests. I'll be updating this repo as I go.
 
@@ -34,8 +35,11 @@ npm test
 - Mocha
 - Karma
 
-### Special Thanks To
+### Shoutouts
 
-- [@gayle](https://twitter.com/gayle?lang=en), author of [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=0Y60VYGGXQA2PJ0NPRF3) for all her amazing work.
-- [@mtvillwock](https://twitter.com/Mtvillwock?lang=en) for reaching through my depression riddled brain and getting my butt into gear. [CTCI](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=0Y60VYGGXQA2PJ0NPRF3)
-- [@kyleshevlin](https://twitter.com/kyleshevlin)'s [talk](http://slides.com/kyleshevlin/improving-at-js-interviews#/) which encouraged me to format and show this to the world.
+- [@gayle](https://twitter.com/gayle?lang=en)
+  - For all her amazing work on [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=0Y60VYGGXQA2PJ0NPRF3).
+- [@mtvillwock](https://twitter.com/Mtvillwock?lang=en)
+  - For reaching through my depression riddled brain and getting my butt into gear.
+- [@kyleshevlin](https://twitter.com/kyleshevlin)
+  - Whose [talk](http://slides.com/kyleshevlin/improving-at-js-interviews#/) encouraged me to format and put this on the internet.
