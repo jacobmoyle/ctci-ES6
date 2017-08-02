@@ -2,7 +2,7 @@
 
 [Setup](#setup) :clap: [Running Tests](#running-tests) :clap: [Dependencies](#dependencies) :clap: [Shoutouts](#shoutouts)
 
-### What is this this? Why are you pushing at 2am?
+### What is this? Why are you pushing at 2am?
 
 These are tested solutions for [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=0Y60VYGGXQA2PJ0NPRF3). I'll be updating this repo as I go.
 
