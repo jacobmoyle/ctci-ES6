@@ -2,9 +2,9 @@
 
 These are the solutions and their respective tests. I'll be updating this repo as I go.
 
-My goal with this project is to become a better technical interviewer. I become a nervous wreck under pressure and employers find it unattractive.
+My goal with this project is to become a better technical interviewer. I become a nervous wreck under pressure and employers find it less than desirable.
 
-So, here is my response to struggling in technical interviews.
+So... here is my response to struggling in technical interviews.
 
 ## Setup
 
@@ -19,4 +19,5 @@ npm install
 - Node.js
 - Babel
 - Webpack
-- Jasmine
+- Mocha
+- Karma
