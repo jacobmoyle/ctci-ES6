@@ -1,4 +1,4 @@
-export let Ch01_Q02 = {
+export const Ch01_Q02 = {
   submit(strOne, strTwo) {
     if(strOne.length != strTwo.length) {
       return false;

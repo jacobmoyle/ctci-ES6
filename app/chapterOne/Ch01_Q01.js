@@ -20,7 +20,7 @@
 //    Second Attempt
 // --------------------
 
-export let Ch01_Q01 = {
+export const Ch01_Q01 = {
   submit (string) {
     var char_tracker = {};
 
