@@ -41,4 +41,20 @@ describe('Chapter 1: Arrays and Strings', () => {
     });
   });
 
+  describe('1.3 URLify', () => {
+    var {Ch01_Q03} = require('Ch01_Q03');
+
+    it('should exist', () => {
+      expect(Ch01_Q03).toExist();
+    });
+
+    it('should replace spaces with %20', () => {
+      const url_input = 'Mr Chris Scott   ';
+      const true_length = 14;
+      const formatted_url = 'Mr%20Chris%20Scott';
+      
+      expect(Ch01_Q03.submit(url_input, true_length)).toEqual(formatted_url);
+    });
+  });
+
 });
