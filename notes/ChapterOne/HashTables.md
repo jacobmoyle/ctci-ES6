@@ -18,3 +18,7 @@ To retrieve the value pair by its key, compute the hash code from the key, then 
 ## Run Time
 
 Worst case is `O(N)` if the occurrence of collisions is high, where `N` is the number of keys.
+
+## Collisions
+
+When a map function maps two distinct inputs to the same output. A node must then be chained using a linked list, assuming enough memory is available.
